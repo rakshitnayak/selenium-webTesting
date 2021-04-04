@@ -1,0 +1,16 @@
+### VisualStudioCode ###
+node_modules/
+.vscode/
+settings.json
+secretnotes.md
+imports/lib/
+public/fonts/
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+**/.history
+
+## executable file.
+
+*.o
+*.a
