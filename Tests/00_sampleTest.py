@@ -9,7 +9,7 @@ driver.maximize_window()
 
 driver.get("https://www.google.com/")  
 
-driver.find_element_by_name("q").send_keys("covid19")  
+driver.find_element_by_name("q").send_keys("sparks foundation")  
 time.sleep(3)  
 driver.find_element_by_name("btnK").send_keys(Keys.ENTER)  
 time.sleep(3)  
