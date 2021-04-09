@@ -20,3 +20,5 @@ bar appears, the name on about us page is correct, etc.
 - Python
 - Visual studio code
 - selenium web driver-Chrome Driver
+
+Youtube link: https://www.youtube.com/watch?v=mZ6EmbUlEVs
